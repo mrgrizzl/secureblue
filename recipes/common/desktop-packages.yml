@@ -26,7 +26,7 @@ install:
     - yubikey-manager
 
     # ensure universal font coverage
-    - google-noto-fonts-all
+    #- google-noto-fonts-all
 
     # libvirt/qemu/kvm packages
     - libvirt

@@ -1,1 +1,2 @@
+enable dms.service
 enable podman-auto-update.timer

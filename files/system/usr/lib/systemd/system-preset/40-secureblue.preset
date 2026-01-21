@@ -1,4 +1,5 @@
 enable dnsconfd.service
+enable greetd.service
 enable podman-auto-update.timer
 enable rpm-ostreed-automatic.timer
 enable secureblue-unbound-key.service

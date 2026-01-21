@@ -24,6 +24,10 @@ common_repos=(
 desktop_repos=(
   "https://copr.fedorainfracloud.org/coprs/secureblue/bubblejail/repo/fedora-%OS_VERSION%/secureblue-bubblejail-fedora-%OS_VERSION%.repo"
   "https://copr.fedorainfracloud.org/coprs/secureblue/branding/repo/fedora-%OS_VERSION%/secureblue-branding-fedora-%OS_VERSION%.repo"
+  "https://copr.fedorainfracloud.org/coprs/avengemedia/dms/repo/fedora-%OS_VERSION%/avengemedia-dms-fedora-%OS_VERSION%.repo"
+  "https://copr.fedorainfracloud.org/coprs/lihaohong/yazi/repo/fedora-%OS_VERSION%/lihaohong-yazi-fedora-%OS_VERSION%.repo"
+  "https://copr.fedorainfracloud.org/coprs/jdxcode/mise/repo/fedora-%OS_VERSION%/jdxcode-mise-fedora-%OS_VERSION%.repo"
+  "https://copr.fedorainfracloud.org/coprs/che/nerd-fonts/repo/fedora-%OS_VERSION%/che-nerd-fonts-fedora-%OS_VERSION%.repo"
 )
 
 server_repos=(

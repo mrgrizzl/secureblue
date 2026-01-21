@@ -52,7 +52,7 @@ jq --arg image_registry "${IMAGE_REGISTRY}" \
             "type": "sigstoreSigned",
             "keyPaths": [
               ("/usr/etc/pki/containers/" + $image_registry_title + ".pub"),
-              ("/usr/etc/pki/containers/" + $image_registry_title + "-2025.pub")
+              ("/usr/etc/pki/containers/" + $image_registry_title + "-2026.pub")
             ],
             "signedIdentity": {
                 "type": "matchRepository"

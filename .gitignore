@@ -1,4 +1,6 @@
 .idea
+openssl.cnf
+private_key.priv
 cosign.key
 *.kate-swp
 .directory
